@@ -1,0 +1,11 @@
+#no-result{
+    display: none;
+}
+#spinner{
+    display: none;
+}
+.placeholder-text{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap ; 
+}
